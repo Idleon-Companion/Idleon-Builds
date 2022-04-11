@@ -1,0 +1,72 @@
+{
+    "title": "Wizard / AFK / WOR (170)",
+    "notes": "Active Skills act as a multiplyer to your total dmg for afk. lvl 25 on all of them should be enough to reach dmg cap. Put more points into attack talents if you are using Prayers that increase mob hp. n To turn this into a regular afk build do not lvl anything related to eff or worship.",
+    "version": "1.40b",
+    "level": 170,
+    "tabs": [
+        {
+            "name": "Savvy Basics",
+            "talents": [
+                {"name": "Health Booster", "skillIndex": 0, "level": "*1", "note": ""},
+                {"name": "Mana Booster", "skillIndex": 1, "level": "160", "note": ""},
+                {"name": "Star Player", "skillIndex": 8, "level": 0, "note": ""},
+                {"name": "Bucklered Up", "skillIndex": 9, "level": "*1", "note": ""},
+                {"name": "Sharpened Axe", "skillIndex": 5, "level": "160", "note": ""},
+                {"name": "Fist Of Rage", "skillIndex": 10, "level": 0, "note": ""},
+                {"name": "Quickness Boots", "skillIndex": 11, "level": "1+", "note": ""},
+                {"name": "Book Of The Wise", "skillIndex": 12, "level": "*2", "note": ""},
+                {"name": "Lucky Clover", "skillIndex": 13, "level": "100", "note": ""},
+                {"name": "Gilded Sword", "skillIndex": 6, "level": "160", "note": ""},
+                {"name": "Smart Efficiency", "skillIndex": 445, "level": "160", "note": ""},
+                {"name": "Overclocked Energy", "skillIndex": 446, "level": "260", "note": ""},
+                {"name": "Farsight", "skillIndex": 447, "level": 0, "note": ""},
+                {"name": "Idle Casting", "skillIndex": 448, "level": "160", "note": ""},
+                {"name": "Active Afk'er", "skillIndex": 449, "level": "100", "note": ""}
+            ],
+            "note": "*1 Put points into talents for Survivablility. Quickness Boots for accuracy. n *2 This build uses many talent points. If you lack points do not lvl Book of the Wise too high. "
+        },
+        {
+            "name": "Mage",
+            "talents": [
+                {"name": "Energy Bolt", "skillIndex": 450, "level": "25", "note": ""},
+                {"name": "Mini Fireball", "skillIndex": 451, "level": "25", "note": ""},
+                {"name": "Mana Overdrive", "skillIndex": 452, "level": "160", "note": ""},
+                {"name": "Teleport", "skillIndex": 453, "level": 0, "note": ""},
+                {"name": "You're Next", "skillIndex": 454, "level": 0, "note": ""},
+                {"name": "Knowledge Is Power", "skillIndex": 455, "level": "160", "note": ""},
+                {"name": "Unt'wis'ted Robes", "skillIndex": 456, "level": "160", "note": ""},
+                {"name": "Power Overwhelming", "skillIndex": 457, "level": "160", "note": ""},
+                {"name": "Free Meal", "skillIndex": 458, "level": "1+", "note": ""},
+                {"name": "Individual Insight", "skillIndex": 459, "level": "160", "note": ""},
+                {"name": "Log On Logs", "skillIndex": 460, "level": "100", "note": ""},
+                {"name": "Leaf Thief", "skillIndex": 461, "level": "20", "note": ""},
+                {"name": "Deforesting All Doubt", "skillIndex": 462, "level": "20", "note": ""},
+                {"name": "Inner Peace", "skillIndex": 464, "level": 0, "note": ""},
+                {"name": "Choppin It Up Ez", "skillIndex": 463, "level": "25+", "note": ""}
+            ],
+            "note": "Put points into Free Meal to reduce food consumption. n*1 Chopping it up Ez is a has bad scaling, put in a few points and only max it when you have no other use for points."
+        },
+        {
+            "name": "Wizard",
+            "talents": [
+                {"name": "Ice Shards", "skillIndex": 465, "level": "25", "note": ""},
+                {"name": "Floor Is Lava", "skillIndex": 466, "level": "25", "note": ""},
+                {"name": "Tornado", "skillIndex": 467, "level": "25", "note": ""},
+                {"name": "Speedy Book", "skillIndex": 468, "level": 0, "note": ""},
+                {"name": "Mana Is Life", "skillIndex": 469, "level": "25", "note": ""},
+                {"name": "Paperwork, Great...", "skillIndex": 470, "level": "160", "note": ""},
+                {"name": "Occult Obols", "skillIndex": 486, "level": 0, "note": ""},
+                {"name": "Staring Statues", "skillIndex": 472, "level": "1+", "note": ""},
+                {"name": "Wis Wumbo", "skillIndex": 488, "level": "160", "note": ""},
+                {"name": "Fuscia Flasks", "skillIndex": 474, "level": "160", "note": ""},
+                {"name": "Charge Syphon", "skillIndex": 475, "level": "*2", "note": ""},
+                {"name": "Sooouls", "skillIndex": 476, "level": "160", "note": ""},
+                {"name": "Bless Up", "skillIndex": 477, "level": 0, "note": ""},
+                {"name": "Nearby Outlet", "skillIndex": 478, "level": "120+", "note": ""},
+                {"name": "Earlier Education", "skillIndex": 494, "level": "*1", "note": ""}
+            ],
+            "note": " Lvling Mage is Best bubble for Fuscia Flasks is currently very hard. Do not lvl Fuscia Flasks higher than you can use it. n Charge Syphon can be used to boost the worship lvl on your wizard or get more souls per charge, with Prayer nerf and MMan you likely do not want to use this. "
+        }
+    ],
+    "idleonClass": "Wizard"
+}

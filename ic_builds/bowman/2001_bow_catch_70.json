@@ -1,0 +1,77 @@
+{
+    "title": "Catching Active / AFK 70+",
+    "notes": "With around 100k oak logs + ~400 agi you'll be able to catch fruitflies, but at very slow rate. n Use Buttered Toasted Butter. Do not level your catching skill higher than your MMan's Catching skill.",
+    "version": "1.40b",
+    "level": 70,
+    "tabs": [
+        {
+            "name": "Calm Basics",
+            "talents": [
+                {"name": "Health Booster", "skillIndex": 0, "level": 0, "note": ""},
+                {"name": "Mana Booster", "skillIndex": 1, "level": 0, "note": ""},
+                {"name": "Star Player", "skillIndex": 8, "level": 0, "note": ""},
+                {"name": "Bucklered Up", "skillIndex": 9, "level": 0, "note": ""},
+                {"name": "Sharpened Axe", "skillIndex": 5, "level": 0, "note": ""},
+                {"name": "Fist Of Rage", "skillIndex": 10, "level": 0, "note": ""},
+                {"name": "Quickness Boots", "skillIndex": 11, "level": "100", "note": ""},
+                {"name": "Book Of The Wise", "skillIndex": 12, "level": 0, "note": ""},
+                {"name": "Lucky Clover", "skillIndex": 13, "level": 0, "note": ""},
+                {"name": "Gilded Sword", "skillIndex": 6, "level": 0, "note": ""},
+                {"name": "Elusive Efficiency", "skillIndex": 263, "level": "100", "note": ""},
+                {"name": "Featherweight", "skillIndex": 266, "level": 0, "note": ""},
+                {"name": "I See You", "skillIndex": 267, "level": 0, "note": ""},
+                {"name": "Idle Shooting", "skillIndex": 268, "level": 0, "note": ""},
+                {"name": "Broken Time", "skillIndex": 269, "level": "*1", "note": ""}
+            ],
+            "note": "Max out both "Elusive efficiency"  and "Quickness boots"n*1- you can invest into "Broken time" with excess points."
+        },
+        {
+            "name": "Archer",
+            "talents": [
+                {"name": "Piercing Arrow", "skillIndex": 270, "level": 0, "note": ""},
+                {"name": "Kung Fu Kick", "skillIndex": 271, "level": 0, "note": ""},
+                {"name": "Hema Overdrive", "skillIndex": 272, "level": 0, "note": ""},
+                {"name": "Strafe", "skillIndex": 273, "level": 0, "note": ""},
+                {"name": "Have Another!", "skillIndex": 274, "level": 0, "note": ""},
+                {"name": "Veins Of The Infernal", "skillIndex": 284, "level": 0, "note": ""},
+                {
+                    "name": "Garb Of Un'agi'ng Quality",
+                    "skillIndex": 276,
+                    "level": "100",
+                    "note": ""
+                },
+                {"name": "High Polymer Limbs", "skillIndex": 277, "level": 0, "note": ""},
+                {"name": "Sanic Speed", "skillIndex": 278, "level": "100", "note": ""},
+                {"name": "Robbinghood", "skillIndex": 279, "level": "*1", "note": ""},
+                {"name": "Smeltin' Erryday", "skillIndex": 280, "level": "100+", "note": ""},
+                {"name": "Acme Anvil", "skillIndex": 281, "level": 0, "note": ""},
+                {"name": "Yea I Already Know", "skillIndex": 282, "level": 0, "note": ""},
+                {"name": "Godly Creation", "skillIndex": 283, "level": 0, "note": ""},
+                {"name": "Focused Soul", "skillIndex": 265, "level": "100", "note": ""}
+            ],
+            "note": "Max "Sanic speed" and "Garb of Un'AGI'ng Quality" to boost "Briar patch runner on tab 3n"Focused Soul" for xp gains"
+        },
+        {
+            "name": "Bowman",
+            "talents": [
+                {"name": "Homing Arrows", "skillIndex": 285, "level": 0, "note": ""},
+                {"name": "Magic Shortbow", "skillIndex": 286, "level": 0, "note": ""},
+                {"name": "Flax Instastring", "skillIndex": 287, "level": 0, "note": ""},
+                {"name": "Extendo Rangeo", "skillIndex": 288, "level": 0, "note": ""},
+                {"name": "Woah, That Was Fast!", "skillIndex": 289, "level": 0, "note": ""},
+                {"name": "Speedna", "skillIndex": 290, "level": 0, "note": ""},
+                {"name": "Shoeful Of Obol", "skillIndex": 291, "level": 0, "note": ""},
+                {"name": "Shwifty Statues", "skillIndex": 292, "level": "100+", "note": ""},
+                {"name": "Agi Again", "skillIndex": 293, "level": "100+", "note": ""},
+                {"name": "Velocity Vessels", "skillIndex": 294, "level": 0, "note": ""},
+                {"name": "Teleki'net'ic Logs", "skillIndex": 295, "level": "50", "note": ""},
+                {"name": "Briar Patch Runner", "skillIndex": 296, "level": "50", "note": ""},
+                {"name": "Bug Enthusiast", "skillIndex": 297, "level": "40", "note": ""},
+                {"name": "Sunset On The Hives", "skillIndex": 298, "level": "100", "note": ""},
+                {"name": "Previous Points", "skillIndex": 299, "level": "*1", "note": ""}
+            ],
+            "note": "You have ability to invest into 3 efficiency skills overall, "Briar patch runner" and "Teleki'Net'ic" are both great sources of that.nConsider maxing out "Sunset on Hives" for more afk  gains, "Bug enthusiast" is for speeding up xp gain."
+        }
+    ],
+    "idleonClass": "Bowman"
+}
