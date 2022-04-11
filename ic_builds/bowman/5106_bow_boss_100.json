@@ -1,0 +1,77 @@
+{
+    "title": "Bowman Boss Killer",
+    "notes": "This build works best with 4 movement speed food, Boost food effect: cards/Yum Yum Desert set/PO box and King of Food trophy. If you have only 3 ms food I'd use boss card set.  ",
+    "version": "1.23",
+    "level": 100,
+    "tabs": [
+        {
+            "name": "Calm Basics",
+            "talents": [
+                {"name": "Health Booster", "skillIndex": 0, "level": "*1", "note": ""},
+                {"name": "Mana Booster", "skillIndex": 1, "level": 0, "note": ""},
+                {"name": "Star Player", "skillIndex": 8, "level": 0, "note": ""},
+                {"name": "Bucklered Up", "skillIndex": 9, "level": "*2", "note": ""},
+                {"name": "Sharpened Axe", "skillIndex": 5, "level": "100+", "note": ""},
+                {"name": "Fist Of Rage", "skillIndex": 10, "level": "*1", "note": ""},
+                {"name": "Quickness Boots", "skillIndex": 11, "level": "200+", "note": ""},
+                {"name": "Book Of The Wise", "skillIndex": 12, "level": "100", "note": ""},
+                {"name": "Lucky Clover", "skillIndex": 13, "level": 0, "note": ""},
+                {"name": "Gilded Sword", "skillIndex": 6, "level": "100+", "note": ""},
+                {"name": "Elusive Efficiency", "skillIndex": 263, "level": "100", "note": ""},
+                {"name": "Featherweight", "skillIndex": 266, "level": "100+", "note": ""},
+                {"name": "I See You", "skillIndex": 267, "level": "100+", "note": ""},
+                {"name": "Idle Shooting", "skillIndex": 268, "level": "100+", "note": ""},
+                {"name": "Broken Time", "skillIndex": 269, "level": "*2", "note": ""}
+            ],
+            "note": "Library order: Gilded>Sharpened>Featherweigh(not possible atm)> Agi> I see you"
+        },
+        {
+            "name": "Archer",
+            "talents": [
+                {"name": "Piercing Arrow", "skillIndex": 270, "level": "25", "note": ""},
+                {"name": "Kung Fu Kick", "skillIndex": 271, "level": "50", "note": ""},
+                {"name": "Hema Overdrive", "skillIndex": 272, "level": "*1", "note": ""},
+                {"name": "Strafe", "skillIndex": 273, "level": "100+", "note": ""},
+                {"name": "Have Another!", "skillIndex": 274, "level": "25", "note": ""},
+                {"name": "Veins Of The Infernal", "skillIndex": 284, "level": "100+", "note": ""},
+                {
+                    "name": "Garb Of Un'agi'ng Quality",
+                    "skillIndex": 276,
+                    "level": "100+",
+                    "note": ""
+                },
+                {"name": "High Polymer Limbs", "skillIndex": 277, "level": "100+", "note": ""},
+                {"name": "Sanic Speed", "skillIndex": 278, "level": "100+", "note": ""},
+                {"name": "Robbinghood", "skillIndex": 279, "level": "160", "note": ""},
+                {"name": "Smeltin' Erryday", "skillIndex": 280, "level": "*2", "note": ""},
+                {"name": "Acme Anvil", "skillIndex": 281, "level": 0, "note": ""},
+                {"name": "Yea I Already Know", "skillIndex": 282, "level": "*4", "note": ""},
+                {"name": "Godly Creation", "skillIndex": 283, "level": 0, "note": ""},
+                {"name": "Focused Soul", "skillIndex": 265, "level": "160", "note": ""}
+            ],
+            "note": "Library order: High Polymer Limbs>Strafe>Veins>Sanic Speed>Garb of Un'AGI'ng Quality"
+        },
+        {
+            "name": "Bowman",
+            "talents": [
+                {"name": "Homing Arrows", "skillIndex": 285, "level": "100+", "note": ""},
+                {"name": "Magic Shortbow", "skillIndex": 286, "level": "50", "note": ""},
+                {"name": "Flax Instastring", "skillIndex": 287, "level": 0, "note": ""},
+                {"name": "Extendo Rangeo", "skillIndex": 288, "level": "*1", "note": ""},
+                {"name": "Woah, That Was Fast!", "skillIndex": 289, "level": 0, "note": ""},
+                {"name": "Speedna", "skillIndex": 290, "level": "100+", "note": ""},
+                {"name": "Shoeful Of Obol", "skillIndex": 291, "level": "100+", "note": ""},
+                {"name": "Shwifty Statues", "skillIndex": 292, "level": "100+", "note": ""},
+                {"name": "Agi Again", "skillIndex": 293, "level": "100+", "note": ""},
+                {"name": "Velocity Vessels", "skillIndex": 294, "level": "*1", "note": ""},
+                {"name": "Teleki'net'ic Logs", "skillIndex": 295, "level": "50", "note": ""},
+                {"name": "Briar Patch Runner", "skillIndex": 296, "level": "50", "note": ""},
+                {"name": "Bug Enthusiast", "skillIndex": 297, "level": "40", "note": ""},
+                {"name": "Sunset On The Hives", "skillIndex": 298, "level": "100", "note": ""},
+                {"name": "Previous Points", "skillIndex": 299, "level": "*", "note": ""}
+            ],
+            "note": "Library order: SpeeDNA>Homing arrows>Agi again>Schwifty statues>Shoeful of obols"
+        }
+    ],
+    "idleonClass": "Bowman"
+}

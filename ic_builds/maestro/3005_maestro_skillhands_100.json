@@ -1,0 +1,72 @@
+{
+    "title": "Maestro Skilling: Left + Right Hands (~100)",
+    "notes": "The goal of this build is to allow your other characters to get level 20+ on their non-specialized skills. The focus is not to level Maestro's skill. However, it's expected Maestro will be skilling using this build.",
+    "version": "1.23",
+    "level": 100,
+    "tabs": [
+        {
+            "name": "Beginner",
+            "talents": [
+                {"name": "Health Booster", "skillIndex": 0, "level": "1*", "note": ""},
+                {"name": "Mana Booster", "skillIndex": 1, "level": "1*", "note": ""},
+                {"name": "Star Player", "skillIndex": 8, "level": 0, "note": ""},
+                {"name": "Bucklered Up", "skillIndex": 9, "level": 0, "note": ""},
+                {"name": "Sharpened Axe", "skillIndex": 5, "level": 0, "note": ""},
+                {"name": "Fist Of Rage", "skillIndex": 10, "level": "1*", "note": ""},
+                {"name": "Quickness Boots", "skillIndex": 11, "level": "1*", "note": ""},
+                {"name": "Book Of The Wise", "skillIndex": 12, "level": "1*", "note": ""},
+                {"name": "Lucky Clover", "skillIndex": 13, "level": 0, "note": ""},
+                {"name": "Gilded Sword", "skillIndex": 6, "level": 0, "note": ""},
+                {"name": "Happy Dude", "skillIndex": 75, "level": "100+", "note": ""},
+                {"name": "Knucklebuster", "skillIndex": 76, "level": 0, "note": ""},
+                {"name": "Feather Flight", "skillIndex": 77, "level": 0, "note": ""},
+                {"name": "Extra Bags", "skillIndex": 78, "level": 0, "note": ""},
+                {"name": "Sleepin' On The Job", "skillIndex": 79, "level": 0, "note": ""}
+            ],
+            "note": "For the first tab, place as many points as you can into Happy Dude. Getting 300+ will require upgrading Bliss n Chips from Tab 3. n1* Once Happy Dude is maximally upgraded, the rest of Tab 1 is used for improving skill efficiency in a particular skill. "
+        },
+        {
+            "name": "Journeyman",
+            "talents": [
+                {"name": "Indiana Attack", "skillIndex": 15, "level": 0, "note": ""},
+                {"name": "Breakin' The Bank", "skillIndex": 16, "level": 0, "note": ""},
+                {"name": "Supernova Player", "skillIndex": 17, "level": 0, "note": ""},
+                {"name": "Two Punch Man", "skillIndex": 18, "level": 0, "note": ""},
+                {"name": "Gimme Gimme", "skillIndex": 19, "level": 0, "note": ""},
+                {"name": "Lucky Hit", "skillIndex": 20, "level": 0, "note": ""},
+                {"name": "F'luk'ey Fabrics", "skillIndex": 21, "level": "*2", "note": ""},
+                {"name": "Chaching!", "skillIndex": 22, "level": 0, "note": ""},
+                {"name": "Lucky Horseshoe", "skillIndex": 23, "level": "*2", "note": ""},
+                {"name": "Curse Of Mr Looty Booty", "skillIndex": 24, "level": "100", "note": ""},
+                {"name": "Its Your Birthday!", "skillIndex": 25, "level": "100+", "note": ""},
+                {"name": "Cmon Out Crystals", "skillIndex": 26, "level": 0, "note": ""},
+                {"name": "Reroll Pls", "skillIndex": 27, "level": 0, "note": ""},
+                {"name": "Cards Galore", "skillIndex": 28, "level": "*1", "note": ""},
+                {"name": "Rares Everywhere!", "skillIndex": 29, "level": "100", "note": ""}
+            ],
+            "note": "Place points into It's your Birthday! for some gems. Then put 100 into Mr Looty Booty and Rares Everywhere for higher statue drop.n*2 Excess points can be placed points into F'luk'ey Fabrics and Lucky Horseshoe for LUK to increase droprate.n*1 If you need cards, you can use cards galore."
+        },
+        {
+            "name": "Maestro",
+            "talents": [
+                {"name": "Coin Toss", "skillIndex": 30, "level": 0, "note": ""},
+                {"name": "Skillage Damage", "skillIndex": 31, "level": 0, "note": ""},
+                {"name": "Printer Go Brrr", "skillIndex": 32, "level": 0, "note": ""},
+                {"name": "Triple Jab", "skillIndex": 33, "level": 0, "note": ""},
+                {"name": "One Step Ahead", "skillIndex": 34, "level": 0, "note": ""},
+                {"name": "Lucky Charms", "skillIndex": 35, "level": 0, "note": ""},
+                {"name": "Clever Clover Obols", "skillIndex": 36, "level": 0, "note": ""},
+                {"name": "Skilliest Statue", "skillIndex": 37, "level": "1*", "note": ""},
+                {"name": "Bliss N Chips", "skillIndex": 38, "level": "100+", "note": ""},
+                {"name": "Colloquial Containers", "skillIndex": 39, "level": 0, "note": ""},
+                {"name": "Maestro Transfusion", "skillIndex": 40, "level": "*2", "note": ""},
+                {"name": "Crystal Countdown", "skillIndex": 41, "level": 0, "note": ""},
+                {"name": "Left Hand Of Learning", "skillIndex": 42, "level": "100+", "note": ""},
+                {"name": "Right Hand Of Action", "skillIndex": 43, "level": "100+", "note": ""},
+                {"name": "Jman Was Better", "skillIndex": 44, "level": 0, "note": ""}
+            ],
+            "note": "Place points into Left Hand of Learning and Right Hand of Action. Once those are maxed, put 100+ into Bliss n Chips. n1* Extra points can go into here to increase EhExPee Statue (+% Skill Exp)n*2 If the Eff drop is not a big deal, you can place points into Transfusion. This will also increase the EXP gained from balloons."
+        }
+    ],
+    "idleonClass": "Maestro"
+}

@@ -1,0 +1,77 @@
+{
+    "title": "Bowman / AFK (~70)",
+    "notes": "Active Skills act as a multiplyer to your total dmg for afk.n Activate Strafe and Extendo Rango before AFK. n Dmg for Bowman comes from "Speed DNA" and "Vines of the Infernal". Raise your Smithing lvl by produceing 2/3x thread.",
+    "version": "1.40b",
+    "level": 70,
+    "tabs": [
+        {
+            "name": "Calm Basics",
+            "talents": [
+                {"name": "Health Booster", "skillIndex": 0, "level": "*1", "note": ""},
+                {"name": "Mana Booster", "skillIndex": 1, "level": 0, "note": ""},
+                {"name": "Star Player", "skillIndex": 8, "level": 0, "note": ""},
+                {"name": "Bucklered Up", "skillIndex": 9, "level": "*2", "note": ""},
+                {"name": "Sharpened Axe", "skillIndex": 5, "level": "50+", "note": ""},
+                {"name": "Fist Of Rage", "skillIndex": 10, "level": "*1", "note": ""},
+                {"name": "Quickness Boots", "skillIndex": 11, "level": "260", "note": ""},
+                {"name": "Book Of The Wise", "skillIndex": 12, "level": "100", "note": ""},
+                {"name": "Lucky Clover", "skillIndex": 13, "level": 0, "note": ""},
+                {"name": "Gilded Sword", "skillIndex": 6, "level": "50+", "note": ""},
+                {"name": "Elusive Efficiency", "skillIndex": 263, "level": "100", "note": ""},
+                {"name": "Featherweight", "skillIndex": 266, "level": "5-20", "note": ""},
+                {"name": "I See You", "skillIndex": 267, "level": 0, "note": ""},
+                {"name": "Idle Shooting", "skillIndex": 268, "level": "50+", "note": ""},
+                {"name": "Broken Time", "skillIndex": 269, "level": "160", "note": ""}
+            ],
+            "note": "*1 = Boost STR to have as much accuracy as you need for the best AFK gains. Usually this will be the farthest monster you can reach without dying. If you're low on defense, by this point equipping food to stay alive is normal and expected. n"Idle Shooting" to 50 for 10% AFK gain rate. n Bowman's core concept is "SpeedNA" gives damage based on every 15% movement speed so we're aiming for 130% with "Featherweight" & "Strafe", or ideally 145%. Priority is "Featherweight" to 5-20 > "Gilded Sword" & "Sharpened Axe"."
+        },
+        {
+            "name": "Archer",
+            "talents": [
+                {"name": "Piercing Arrow", "skillIndex": 270, "level": "50", "note": ""},
+                {"name": "Kung Fu Kick", "skillIndex": 271, "level": "25", "note": ""},
+                {"name": "Hema Overdrive", "skillIndex": 272, "level": "*1", "note": ""},
+                {"name": "Strafe", "skillIndex": 273, "level": "*1", "note": ""},
+                {"name": "Have Another!", "skillIndex": 274, "level": "25", "note": ""},
+                {"name": "Veins Of The Infernal", "skillIndex": 284, "level": "30", "note": ""},
+                {
+                    "name": "Garb Of Un'agi'ng Quality",
+                    "skillIndex": 276,
+                    "level": "160",
+                    "note": ""
+                },
+                {"name": "High Polymer Limbs", "skillIndex": 277, "level": "100", "note": ""},
+                {"name": "Sanic Speed", "skillIndex": 278, "level": "*3", "note": ""},
+                {"name": "Robbinghood", "skillIndex": 279, "level": "160", "note": ""},
+                {"name": "Smeltin' Erryday", "skillIndex": 280, "level": "*2", "note": ""},
+                {"name": "Acme Anvil", "skillIndex": 281, "level": 0, "note": ""},
+                {"name": "Yea I Already Know", "skillIndex": 282, "level": "*4", "note": ""},
+                {"name": "Godly Creation", "skillIndex": 283, "level": 0, "note": ""},
+                {"name": "Focused Soul", "skillIndex": 265, "level": "160", "note": ""}
+            ],
+            "note": "Level "Polymer Limbs" to 100, then your active damage skills. Afterwards, level up "Veins of the Infernal" to 30. n *1 Level up "Strafe" to achieve 130% movement speed with points into featherweight into tab 1. This should be around 40 points."
+        },
+        {
+            "name": "Bowman",
+            "talents": [
+                {"name": "Homing Arrows", "skillIndex": 285, "level": "25", "note": ""},
+                {"name": "Magic Shortbow", "skillIndex": 286, "level": "50", "note": ""},
+                {"name": "Flax Instastring", "skillIndex": 287, "level": 0, "note": ""},
+                {"name": "Extendo Rangeo", "skillIndex": 288, "level": "1", "note": ""},
+                {"name": "Woah, That Was Fast!", "skillIndex": 289, "level": 0, "note": ""},
+                {"name": "Speedna", "skillIndex": 290, "level": "60+", "note": ""},
+                {"name": "Shoeful Of Obol", "skillIndex": 291, "level": "100+", "note": ""},
+                {"name": "Shwifty Statues", "skillIndex": 292, "level": "160", "note": ""},
+                {"name": "Agi Again", "skillIndex": 293, "level": "160", "note": ""},
+                {"name": "Velocity Vessels", "skillIndex": 294, "level": "*1", "note": ""},
+                {"name": "Teleki'net'ic Logs", "skillIndex": 295, "level": "50", "note": ""},
+                {"name": "Briar Patch Runner", "skillIndex": 296, "level": "50", "note": ""},
+                {"name": "Bug Enthusiast", "skillIndex": 297, "level": "40", "note": ""},
+                {"name": "Sunset On The Hives", "skillIndex": 298, "level": "100", "note": ""},
+                {"name": "Previous Points", "skillIndex": 299, "level": "*1", "note": ""}
+            ],
+            "note": "Level up "Homing Arrow" and "Magic Shortbow" to 50 and 25. Value point into "Extendo Rangeo" for that sweet 4 accuracy. n Then raise "SpeedNA" to 60. n *1 Points can be invested back into tab 2. Eventually you want to aim for 145% MS. 50 points into Strafe would add another 15% MS for another "SpeedNA" bonus."
+        }
+    ],
+    "idleonClass": "Bowman"
+}

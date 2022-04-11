@@ -1,0 +1,77 @@
+{
+    "title": "Hunter / AFK (~170)",
+    "notes": "Active Skills act as a multiplyer to your total dmg for afk. Put more points into attack talents and "Have Another!" if you are using Prayers that increase mob hp.",
+    "version": "1.40b",
+    "level": 170,
+    "tabs": [
+        {
+            "name": "Calm Basics",
+            "talents": [
+                {"name": "Health Booster", "skillIndex": 0, "level": "*2", "note": ""},
+                {"name": "Mana Booster", "skillIndex": 1, "level": "*2", "note": ""},
+                {"name": "Star Player", "skillIndex": 8, "level": 0, "note": ""},
+                {"name": "Bucklered Up", "skillIndex": 9, "level": "*2", "note": ""},
+                {"name": "Sharpened Axe", "skillIndex": 5, "level": "160", "note": ""},
+                {"name": "Fist Of Rage", "skillIndex": 10, "level": "100", "note": ""},
+                {"name": "Quickness Boots", "skillIndex": 11, "level": "260", "note": ""},
+                {"name": "Book Of The Wise", "skillIndex": 12, "level": "100", "note": ""},
+                {"name": "Lucky Clover", "skillIndex": 13, "level": 0, "note": ""},
+                {"name": "Gilded Sword", "skillIndex": 6, "level": "160", "note": ""},
+                {"name": "Elusive Efficiency", "skillIndex": 263, "level": "*1", "note": ""},
+                {"name": "Featherweight", "skillIndex": 266, "level": "100", "note": ""},
+                {"name": "I See You", "skillIndex": 267, "level": 0, "note": ""},
+                {"name": "Idle Shooting", "skillIndex": 268, "level": "160", "note": ""},
+                {"name": "Broken Time", "skillIndex": 269, "level": "160", "note": ""}
+            ],
+            "note": "*1 = Boost STR to have as much accuracy as you need for the best AFK gains. *1 If you got enough points and do not wish to change presets when placing traps. n *2 assign points here if you wish to use no healing food during afk. 50 in "Bucklered Up" are enoguh rest into Hp. "
+        },
+        {
+            "name": "Archer",
+            "talents": [
+                {"name": "Piercing Arrow", "skillIndex": 270, "level": "25", "note": ""},
+                {"name": "Kung Fu Kick", "skillIndex": 271, "level": "25", "note": ""},
+                {"name": "Hema Overdrive", "skillIndex": 272, "level": "*1", "note": ""},
+                {"name": "Strafe", "skillIndex": 273, "level": "160", "note": ""},
+                {"name": "Have Another!", "skillIndex": 274, "level": "25", "note": ""},
+                {"name": "Veins Of The Infernal", "skillIndex": 284, "level": "160", "note": ""},
+                {
+                    "name": "Garb Of Un'agi'ng Quality",
+                    "skillIndex": 276,
+                    "level": "160",
+                    "note": ""
+                },
+                {"name": "High Polymer Limbs", "skillIndex": 277, "level": "160", "note": ""},
+                {"name": "Sanic Speed", "skillIndex": 278, "level": "160", "note": ""},
+                {"name": "Robbinghood", "skillIndex": 279, "level": "160", "note": ""},
+                {"name": "Smeltin' Erryday", "skillIndex": 280, "level": "120", "note": ""},
+                {"name": "Acme Anvil", "skillIndex": 281, "level": "*1", "note": ""},
+                {"name": "Yea I Already Know", "skillIndex": 282, "level": "*2", "note": ""},
+                {"name": "Godly Creation", "skillIndex": 283, "level": "*2", "note": ""},
+                {"name": "Focused Soul", "skillIndex": 265, "level": "*2", "note": ""}
+            ],
+            "note": "*1 Max this and Hp from tab 1 if you wish to "No food". *2 Max these two if you can afford it. They are needed to lvl Smithing for "Vines of the Infernal""
+        },
+        {
+            "name": "Hunter",
+            "talents": [
+                {"name": "360 Noscope", "skillIndex": 300, "level": "25", "note": ""},
+                {"name": "Bear Trap", "skillIndex": 301, "level": "25", "note": ""},
+                {"name": "Uwu Rawrrr", "skillIndex": 302, "level": "*1", "note": ""},
+                {"name": "Stop Right There", "skillIndex": 303, "level": 0, "note": ""},
+                {"name": "Have Another... Again!", "skillIndex": 304, "level": "25", "note": ""},
+                {"name": "Looty Mc Shooty", "skillIndex": 305, "level": "160", "note": ""},
+                {"name": "Shoeful Of Obol", "skillIndex": 291, "level": "160", "note": ""},
+                {"name": "Straightshot Statues", "skillIndex": 307, "level": "100+", "note": ""},
+                {"name": "Agi Again", "skillIndex": 293, "level": "160", "note": ""},
+                {"name": "Visibility Vessels", "skillIndex": 309, "level": 0, "note": ""},
+                {"name": "Eagle Eye", "skillIndex": 310, "level": "140+", "note": ""},
+                {"name": "Invasive Species", "skillIndex": 311, "level": "*1", "note": ""},
+                {"name": "Shroom Bait", "skillIndex": 312, "level": "100", "note": ""},
+                {"name": "Reflective Eyesight", "skillIndex": 313, "level": "100+", "note": ""},
+                {"name": "Previous Points", "skillIndex": 299, "level": 0, "note": ""}
+            ],
+            "note": "Max "Eagle Eye" for trapping. With a high enough skill lvl and "Poison Froge Vial" you can collect more than 100% critters despite the skill saying otherwise. n *1 If you got enough points and do not wish to change presets when placing traps."
+        }
+    ],
+    "idleonClass": "Hunter"
+}
